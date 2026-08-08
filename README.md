@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Shiv Bold
@@ -154,13 +153,7 @@ Cybersecurity
 Android Development
 Web Development
 Git & GitHub
-````
-
----
-
-# 🎯 My Goals
-
-```text
+🎯 My Goals
 ╔══════════════════════════════════════╗
 ║                                      ║
 ║   💻 Become a Strong Software Dev    ║
@@ -171,59 +164,15 @@ Git & GitHub
 ║   🌎 Build Real-World Projects       ║
 ║                                      ║
 ╚══════════════════════════════════════╝
-```
-
----
-
-# 📊 GitHub Statistics
-
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivBold&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivBold&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ShivBold&theme=tokyonight&hide_border=true" /> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </div>
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/ShivBold"> <img src="https://img.shields.io/badge/GitHub-ShivBold-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivBold&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivBold&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivBold&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ShivBold">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### 💻 Keep Coding • 🔐 Keep Learning • 🚀 Keep Building
-
-</div>
-```
+⭐ Thanks for visiting my profile!
+💻 Keep Coding • 🔐 Keep Learning • 🚀 Keep Building
+</div> ```
